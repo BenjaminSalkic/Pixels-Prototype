@@ -1,0 +1,8 @@
+.tablaMedium{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0px;
+    width: 500px;
+    height: 500px;
+}

@@ -1,0 +1,19 @@
+.sideBar{
+    height: 93vh;
+    width: 10%;
+    float: left;
+    background-color: gray;
+    display: flex;
+}
+.row-div{
+    width: 50%;
+}
+.button-div{
+  height: 7vh;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.button-div:hover{
+    background-color: rgb(65, 64, 64);
+}

@@ -1,0 +1,8 @@
+.tablaSmall{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0px;
+    width: 350px;
+    height: 350px;
+}

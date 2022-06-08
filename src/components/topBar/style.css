@@ -1,0 +1,25 @@
+.TopBar{
+    width: 100%;
+    height: 7vh;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+}
+.Color{
+    width: 10%;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.Color:hover{
+    background-color: beige;
+    width: 12%;
+    height: 8vh;
+
+}
+.kocka{
+    width: 70%;
+    height: 70%;
+}
